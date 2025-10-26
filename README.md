@@ -62,12 +62,6 @@ Setup and Installation
 
 To run this project locally, follow these steps:
 
-Clone the Repository
-
-git clone [https://github.com/your-username/lexora-ai-translator.git](https://github.com/your-username/lexora-ai-translator.git)
-cd lexora-ai-translator
-
-
 Create a Python Virtual Environment
 
 # On macOS/Linux
